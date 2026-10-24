@@ -1,0 +1,5 @@
+.gstack/
+.env
+.env.*
+auth.json
+codexhome/
